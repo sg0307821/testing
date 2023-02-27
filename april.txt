@@ -1,1 +1,3 @@
-fsdfsd
+this file is in the newfeature
+and this is the sample file 
+where iam teting the commit as always 
